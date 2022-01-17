@@ -1,0 +1,1 @@
+web: gunicorn crudReact.wsgi
